@@ -1,7 +1,7 @@
 GitPitchのテスト
 
 ---
---?gist=xsuenaga/745d4264fb87fa5033a5761c854750c6#file-test-gist-01-md
+--?gist=xsuenaga/745d4264fb87fa5033a5761c854750c6
 ---
 トピック1
 
