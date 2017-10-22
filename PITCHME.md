@@ -1,5 +1,6 @@
 GitPitchのテスト
----?image=science-club.jpg
+
+|[logo](science-club.jpg)
 
 ---?gist=xsuenaga/745d4264fb87fa5033a5761c854750c6&lang=markdown
 
